@@ -5,6 +5,6 @@ business_data_science/*.jpg
 *.mp3
 *.xlsx
 NLP/tensorflow-ml-nlp-tf2/
-
+*.html
 crawling/selenium/Lib/
 crawling/selenium/Scripts/
