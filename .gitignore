@@ -8,3 +8,4 @@ NLP/tensorflow-ml-nlp-tf2/
 *.html
 crawling/selenium/Lib/
 crawling/selenium/Scripts/
+.idea/
