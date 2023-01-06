@@ -27,3 +27,8 @@
 >- Naive bayes
 >  - Private Score 0.9719로 감소
 >  - B -> C 1개
+>- DecisionTree Another Parameter
+>  - Private Score 0.9107로 감소
+>  - B -> C 6개
+>- RandomForest Another Parameter
+>  - Randomstate 등 Parameter 조절
