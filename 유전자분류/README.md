@@ -13,7 +13,7 @@
 >  - 비교군에서 B일 경우 예측값 C가 증가할수록 정확도가 감소
 >  - 실제 B를 예측하는 것이 분석의 관건이라고 판단됨
 
-## 23.1.5. Scikit-Learn Lib
+## 23.1.5.~ Scikit-Learn Lib
 >- RandomForest의 예측값(Private Score 0.9622)을 true(test)로, 새로운 예측값을 pred로 할당함
 >  - 기존보다 B 예측값이 증가하는 모델을 찾기로 함.
 >- KNN
