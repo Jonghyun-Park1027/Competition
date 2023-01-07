@@ -25,10 +25,17 @@
 >  - B -> C 2개 / C -> B 1개
 >  - B의 예측수 증가가 정확성과 항상 비례하진 않는다고 판단됨
 >- Naive bayes
->  - Private Score 0.9719로 감소
+>  - Private Score 0.9719
 >  - B -> C 1개
 >- DecisionTree Another Parameter
->  - Private Score 0.9107로 감소
+>  - Private Score 0.9107
 >  - B -> C 6개
 >- RandomForest Another Parameter
+>  - Private Score 0.9622
 >  - Randomstate 등 Parameter 조절
+>  - 유의미한 변화 없음
+>- GradientBoosting
+>  - Private Score 0.9622
+>  - Randomstate 등 Parameter 조절
+>  - 유의미한 변화 없음
+>- LogisticRegression Another Parameter
