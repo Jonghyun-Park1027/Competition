@@ -39,3 +39,7 @@
 >  - Randomstate 등 Parameter 조절
 >  - 유의미한 변화 없음
 >- LogisticRegression Another Parameter
+>  - 변화없음
+
+## 23.1.8. ~ XGBoost, LGBM + Optuna
+> - 
