@@ -41,5 +41,6 @@
 >- LogisticRegression Another Parameter
 >  - 변화없음
 
-## 23.1.8. ~ XGBoost, LGBM + Optuna
-> - 
+## 23.1.8. ~ 23.1.9. XGBoost, LGBM + Optuna
+> - 정확도가 0.16 수준
+> - Drop
