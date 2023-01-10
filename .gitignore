@@ -9,5 +9,7 @@ NLP/tensorflow-ml-nlp-tf2/
 crawling/selenium/Lib/
 crawling/selenium/Scripts/
 .idea/
-
+*.jpg
 /유전자분류/23.1.8.Optuna+XGboost, LGBM.ipynb
+/포디블록/open/test/
+/포디블록/open/train/
